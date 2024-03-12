@@ -3,7 +3,7 @@ import time
 from github import Github
 
 
-g = Github("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")
+g = Github("key")
 
 def get_user_details(username):
     user = g.get_user(username)
