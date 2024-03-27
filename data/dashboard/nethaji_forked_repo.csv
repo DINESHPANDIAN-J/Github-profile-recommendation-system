@@ -1,0 +1,14 @@
+repo_name,commit_date,lines_added,lines_removed,change_type,language,login,repo_nature
+AzureFunctionapp,2023-08-01 13:29:18+00:00,0,70,Remove,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-08-01 12:48:39+00:00,70,0,Add,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-06 05:51:36+00:00,0,72,Remove,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-05 18:06:41+00:00,3,1,Add,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-05 18:05:02+00:00,1,1,Add,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-05 18:03:36+00:00,1,1,Add,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-05 18:02:46+00:00,1,1,Add,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-05 17:57:53+00:00,70,0,Add,Python,nethajinirmal13,Forked
+AzureFunctionapp,2023-07-05 17:55:18+00:00,2,2,Add,Python,nethajinirmal13,Forked
+dotnetcore-docs-hello-world,2023-07-28 15:47:23+00:00,57,0,Add,HTML,nethajinirmal13,Forked
+dotnetcore-docs-hello-world,2023-07-28 15:12:50+00:00,57,0,Add,HTML,nethajinirmal13,Forked
+dotnetcore-docs-hello-world,2023-07-28 14:40:14+00:00,57,0,Add,HTML,nethajinirmal13,Forked
+dotnetcore-docs-hello-world,2023-07-01 13:04:29+00:00,57,0,Add,HTML,nethajinirmal13,Forked

@@ -55,7 +55,7 @@ def get_top_recommendations(org, starred_repo, subscription, top_n=10):
     return data.iloc[top_recommendation_indices]
 
 
-# Example usage: Provide input values and get top recommendation
+# Provide input values and get top recommendation
 org_input = 'Microsoft'
 starred_repo_input = 'https://github.com/repo2'
 subscription_input = 'https://github.com/sub2'
