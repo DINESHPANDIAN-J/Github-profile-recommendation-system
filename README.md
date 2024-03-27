@@ -3,7 +3,8 @@
 ## Introduction
 
 This repository contains the code and resources for a GitHub Profile Recommendation System. The system aims to provide personalized recommendations to users based on their preferences, including organizations of interest, starred repositories, and subscriptions.
-### You can use the APP here: https://dineshgrs.streamlit.app/
+
+### You can use the APP here: [GitHub Profile Recommendation System](https://dineshgrs.streamlit.app/)
 
 ## Data Collection and Preprocessing
 
@@ -49,5 +50,4 @@ The GitHub Profile Recommendation System provides an effective way to discover r
 
 ## Contributors
 
-- Dinesh Pandian J (https://github.com/DINESHPANDIAN-J)
-
+- Dinesh Pandian J ([GitHub](https://github.com/DINESHPANDIAN-J))
