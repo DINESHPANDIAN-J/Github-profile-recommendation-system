@@ -95,7 +95,7 @@ def get_organization_members_details(organization_name, count=10, filename='user
             except Exception as e:
                 print(f"Error fetching details for member {member.login}: {e}")
             # Add a small delay to avoid rate limiting
-            time.sleep(1)  # You can adjust this delay as needed
+            time.sleep(1)  
     except Exception as e:
         print(f"Error fetching organization members: {e}")
 
