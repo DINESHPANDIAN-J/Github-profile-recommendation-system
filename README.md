@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository contains the code and resources for a GitHub Profile Recommendation System. The system aims to provide personalized recommendations to users based on their preferences, including organizations of interest, starred repositories, and subscriptions.
-### You can use the APP here: https://dinesh-recommendation-system.streamlit.app/
+### You can use the APP here: https://dineshgrs.streamlit.app/
 
 ## Data Collection and Preprocessing
 
